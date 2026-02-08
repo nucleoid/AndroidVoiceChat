@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenClaw Voice</string>
+    <string name="notification_channel_voice">Voice Chat</string>
+    <string name="notification_channel_voice_desc">Active voice conversation with OpenClaw</string>
+    <string name="notification_title_active">Voice chat active</string>
+    <string name="notification_title_paused">Voice chat paused</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_end">End</string>
+    <string name="status_idle">Tap to start</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_processing">Thinking…</string>
+    <string name="status_speaking">Speaking…</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_error">Error</string>
+    <string name="car_voice_start">Start Voice Chat</string>
+    <string name="car_voice_stop">Stop</string>
+    <string name="car_greeting">Tap to talk with OpenClaw</string>
+</resources>
